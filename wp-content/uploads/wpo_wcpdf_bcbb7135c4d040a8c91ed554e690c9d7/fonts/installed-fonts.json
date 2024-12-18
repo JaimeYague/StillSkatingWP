@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/OpenSans-Normal",
+        "bold": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/OpenSans-Bold",
+        "italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/Segoe-Normal",
+        "bold": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/Segoe-Bold",
+        "italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/currencies",
+        "bold": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/currencies",
+        "italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/currencies",
+        "bold_italic": "C:\/laragon\/www\/PruebaWP\/wp-content\/uploads\/wpo_wcpdf_bcbb7135c4d040a8c91ed554e690c9d7\/fonts\/currencies"
+    }
+}
